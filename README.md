@@ -22,3 +22,4 @@
 The business can use this dashboard to figure out where they are doing well, where they need to improve and also categorize their customers, giving priority and special offers to those who purchase from us very often.
 
 8. Screenshot/Demo:
+https://github.com/saikarthikgadaputi/AdventureWorks-Report/blob/main/AdvWorks.png
