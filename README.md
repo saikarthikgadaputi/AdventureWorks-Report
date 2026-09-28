@@ -1,4 +1,4 @@
-Adventure Works Report: An in depth analysis for a biking store
+1.Adventure Works Report: An in depth analysis for a biking store
 
 The Adventure Works Report is a visually engaging and analytical Power BI report designed to help users explore various KPIs of a fictional bike store like returns, sales, most selling product, least in demand products etc. The dashboard focuses on highlighting the major areas of the business and making it easier to understand with visuals.
 
